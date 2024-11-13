@@ -1,5 +1,5 @@
  
-                                                             FinanceTracker
+                                                          FinanceTracker
 ![Screenshot 2024-11-14 015908](https://github.com/user-attachments/assets/36d38e33-3a5e-46c2-bae4-e2b5f27f2b79)
 
 ![Screenshot 2024-11-14 015925 - Copy](https://github.com/user-attachments/assets/a2911658-bc28-488c-925e-9dc4eb59719f)
@@ -25,6 +25,15 @@
 ![Screenshot 2024-11-14 020432 - Copy](https://github.com/user-attachments/assets/9c80b83e-8dc1-4e7e-baf7-addb8392aed3)
 ![Screenshot 2024-11-14 020432](https://github.com/user-attachments/assets/7f834842-f2d2-47d3-b4c0-1ebf56a4ebc8)
 ![Screenshot 2024-11-14 020442 - Copy](https://github.com/user-attachments/assets/5bc09dea-c9a0-4624-8c36-9f59d74d7654)
+
+
+
+                                                         Finance_Assistance
+![Screenshot 2024-11-14 022802](https://github.com/user-attachments/assets/a219f86d-6b86-4f0f-9f42-43b465587353)
+![Screenshot 2024-11-14 022813](https://github.com/user-attachments/assets/88ca70fa-5602-4352-a432-71ce36026652)
+![Screenshot 2024-11-14 022824](https://github.com/user-attachments/assets/ae41a36b-8cb1-433f-a660-2fa50c9f39f5)
+![Screenshot 2024-11-14 022831](https://github.com/user-attachments/assets/a4c0d473-b7f0-4757-80bd-e85d5197156d)
+
 ![Screenshot 2024-11-14 020442](https://github.com/user-attachments/assets/2e220127-e683-407f-aebf-fc2532c7ade8)
 ![Screenshot 2024-11-14 020507 - Copy](https://github.com/user-attachments/assets/7ff00208-7e71-485a-b529-25da8df84c17)
 ![Screenshot 2024-11-14 020507](https://github.com/user-attachments/assets/afe89c29-e449-4833-b44e-c12296fb8fcf)
